@@ -25,6 +25,11 @@ namespace ZadanieYLTRO
             InitializeComponent();
         }
 
+        private void InitializeComponent()
+        {
+            throw new NotImplementedException();
+        }
+
         private void myCheckBox_Checked(object sender, RoutedEventArgs e)
         {
 

@@ -25,6 +25,11 @@ namespace ZadanieYLTRO
             InitializeComponent();
         }
 
+        private void InitializeComponent()
+        {
+            throw new NotImplementedException();
+        }
+
         private void ButtonCanel_Click(object sender, RoutedEventArgs e)
         {
             TextBox1.Clear();

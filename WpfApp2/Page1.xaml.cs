@@ -25,6 +25,11 @@ namespace ZadanieYLTRO
             InitializeComponent();
         }
 
+        private void InitializeComponent()
+        {
+            throw new NotImplementedException();
+        }
+
         private void ButtonRaner_Click(object sender, RoutedEventArgs e)
         {
             this.NavigationService.Navigate(new Page2());

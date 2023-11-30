@@ -25,6 +25,11 @@ namespace ZadanieYLTRO
             InitializeComponent();
         }
 
+        private void InitializeComponent()
+        {
+            throw new NotImplementedException();
+        }
+
         private void ButtonMySponsr_Click(object sender, RoutedEventArgs e)
         {
 
